@@ -1,0 +1,11 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "subscription": {"value": "1c1f62ec-cd62-49f0-b494-5b322d3c97a6"},
+        "resource_group": {"value": "Jeroen-Wester-speeltuin"},
+        "location": {"value": "germanywestcentral"},
+        "storageAccount_name": {"value": "mysa8lxzl5hehmyjw"},
+        "queue_name": {"value": "testqueue"}
+    }
+}
